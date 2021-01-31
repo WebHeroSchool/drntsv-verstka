@@ -1,9 +1,30 @@
+body {
+  margin: 0;
+}
 .title {
   font-family: Roboto;
 }
-.header {
-  border: dashed 1px red;
+.wrapper{
+  margin: auto;
+  width: 80%;
 }
-.body {
-  margin: 0;
+.logo, .menu{
+  display: inline-block;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  padding: 40px 0;
+}
+.menu {
+  display: flex;
+  align-items: center;
+}
+.menu__item {
+  padding: 0 13px;
+}
+.menu__item:last-child {
+  padding-right: 0;
 }
