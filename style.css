@@ -22,12 +22,13 @@ body {
 .menu {
   display: flex;
   align-items: center;
+  margin-left: 88%;
 }
 .menu__item {
-  padding: 0 13px;
+  padding: 0 4px 0 0;
 }
 .menu__item:last-child {
-  padding-right: 0;
+  padding-right: 0px;
 }
 .logo {
   position: relative;
@@ -63,6 +64,7 @@ body {
 }
 .menu__item:last-child {
   margin-right: 0;
+  border: dashed 1px red;
 }
 .menu__item:after {
   position: absolute;
@@ -82,12 +84,14 @@ body {
   opacity: 1
 }
 .main {
-  padding: 0 63% 100px 0;
-  background: top right no-repeat url(img/mainimg.svg);
+  padding: 110px 63% 150px 0;
+  background: no-repeat url(img/mainimg.svg);
+  background-position: top right;
+  background-size: 70%;
 }
 .main__title {
   margin: 0 0 40px 0;
-  font: bold 50px/65px pt_serifbold, arial, helvetica, sans-serif;
+  font: bold 70px/85px pt_serifbold, arial, helvetica, sans-serif;
 }
 .main__subtitle {
   margin: 0 0 41px 0;
