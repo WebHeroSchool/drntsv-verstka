@@ -9,6 +9,7 @@ body {
   width: 80%;
 }
 .logo, .menu{
+  margin-left: 60px;
   display: inline-block;
 }
 .header {
@@ -17,12 +18,12 @@ body {
   margin-bottom: 100px;
 }
 .logo {
-  padding: 40px 0;
+  padding: 10px 0;
 }
 .menu {
   display: flex;
   align-items: center;
-  margin-left: 88%;
+  margin-left: 40%;
 }
 .menu__item {
   padding: 0 4px 0 0;
@@ -64,7 +65,6 @@ body {
 }
 .menu__item:last-child {
   margin-right: 0;
-  border: dashed 1px red;
 }
 .menu__item:after {
   position: absolute;
@@ -84,14 +84,14 @@ body {
   opacity: 1
 }
 .main {
-  padding: 110px 63% 150px 0;
+  padding: 110px 64% 150px 0;
   background: no-repeat url(img/mainimg.svg);
   background-position: top right;
-  background-size: 70%;
+  background-size: 60%;
 }
 .main__title {
   margin: 0 0 40px 0;
-  font: bold 70px/85px pt_serifbold, arial, helvetica, sans-serif;
+  font: bold 70px/83px pt_serifbold, arial, helvetica, sans-serif;
 }
 .main__subtitle {
   margin: 0 0 41px 0;
@@ -106,6 +106,7 @@ body {
   color: #fff;
   background: #0056EC;
   padding: 14px 16px;
+
   text-decoration: none;
   border-radius: 4px;
   transition: opacity .5s;
