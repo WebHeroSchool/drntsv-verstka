@@ -86,11 +86,10 @@ body {
   opacity: 1
 }
 .main {
-  margin: auto;
-  padding: 98px 61% 150px 0;
+  padding: 100px 49% 129px 0;
   background: no-repeat url(img/mainimg.svg);
   background-position: bottom right;
-  background-size: 47%;
+  background-size: 51%;
 }
 .main__title {
   margin: 0 0 40px 0;
@@ -111,7 +110,6 @@ body {
   color: #fff;
   background: #0056EC;
   padding: 23px 16px;
-
   text-decoration: none;
   border-radius: 4px;
   transition: opacity .5s;
