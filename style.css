@@ -88,31 +88,32 @@ body {
   opacity: 1
 }
 .main {
-  padding: 100px 49% 129px 0;
+  padding: 100px 49% 139px 0;
   background: no-repeat url(img/mainimg.svg);
   background-position: bottom right;
   background-size: 50%;
 }
 .main__title {
-  margin: 5px 0 40px 0;
+  margin: 6px 0 38px 0;
   font: normal 66px/90px pt_serifbold, arial, helvetica, sans-serif;
 }
 .main__subtitle {
+  width: 58%;
   margin-right: 93px;
   margin-bottom: 2px;
-  padding: 0 235px 45px 0;
-  font: 24px/21px Roboto, arial, helvetica, sans-serif;
+  padding: 0 285px 40px 0;
+  font: 22px/21px Roboto, arial, helvetica, sans-serif;
 }
 .main__title-text_highlight {
   background: #ECF3FF;
 }
 .main__button {
   display: inline-block;
-  margin-left: 8px;
+  margin-left: 4px;
   font: 15px/18px Roboto, arial, helvetica, sans-serif;
   color: #fff;
   background: #0056EC;
-  padding: 18px 50px 18px 50px;
+  padding: 20px 50px 18px 48px;
   text-decoration: none;
   border-radius: 4px;
   transition: opacity .5s;
