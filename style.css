@@ -91,7 +91,7 @@ body {
   padding: 100px 49% 139px 0;
   background: no-repeat url(img/mainimg.svg);
   background-position: bottom right;
-  background-size: 50%;
+  background-size: 51%;
 }
 .main__title {
   margin: 6px 0 38px 0;
@@ -101,7 +101,7 @@ body {
   width: 58%;
   margin-right: 93px;
   margin-bottom: 2px;
-  padding: 0 285px 40px 0;
+  padding: 0 283px 40px 0;
   font: 22px/21px Roboto, arial, helvetica, sans-serif;
 }
 .main__title-text_highlight {
@@ -110,10 +110,11 @@ body {
 .main__button {
   display: inline-block;
   margin-left: 4px;
-  font: 15px/18px Roboto, arial, helvetica, sans-serif;
+  margin-right: 30px;
+  font: 18px/18px Roboto, arial, helvetica, sans-serif;
   color: #fff;
   background: #0056EC;
-  padding: 20px 50px 18px 48px;
+  padding: 22px 28px 22px 28px;
   text-decoration: none;
   border-radius: 4px;
   transition: opacity .5s;
