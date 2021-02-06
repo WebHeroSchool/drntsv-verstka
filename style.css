@@ -19,7 +19,7 @@ body {
 }
 .logo {
   margin-left: 0;
-  padding: 25px 0 20px 0;
+  padding: 25px 0 25px 0;
 }
 .menu {
   display: flex;
@@ -91,16 +91,16 @@ body {
   padding: 100px 49% 129px 0;
   background: no-repeat url(img/mainimg.svg);
   background-position: bottom right;
-  background-size: 51%;
+  background-size: 50%;
 }
 .main__title {
   margin: 5px 0 40px 0;
-  font: bold 66px/90px pt_serifbold, arial, helvetica, sans-serif;
+  font: normal 66px/90px pt_serifbold, arial, helvetica, sans-serif;
 }
 .main__subtitle {
-  margin-right: 92px;
-  margin-bottom: 10px;
-  padding: 0 231px 45px 0;
+  margin-right: 93px;
+  margin-bottom: 2px;
+  padding: 0 235px 45px 0;
   font: 24px/21px Roboto, arial, helvetica, sans-serif;
 }
 .main__title-text_highlight {
