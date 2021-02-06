@@ -100,7 +100,7 @@ body {
 .main__subtitle {
   margin-right: 92px;
   margin-bottom: 10px;
-  padding: 0px 231px 45px 0;
+  padding: 0 231px 45px 0;
   font: 24px/21px Roboto, arial, helvetica, sans-serif;
 }
 .main__title-text_highlight {
