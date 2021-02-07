@@ -102,7 +102,7 @@ body {
   margin-right: 93px;
   margin-bottom: 2px;
   padding: 0 283px 40px 0;
-  font: 22px/21px Roboto, arial, helvetica, sans-serif;
+  font: 22px/22px Roboto, arial, helvetica, sans-serif;
 }
 .main__title-text_highlight {
   background: #ECF3FF;
@@ -111,10 +111,10 @@ body {
   display: inline-block;
   margin-left: 4px;
   margin-right: 30px;
-  font: 18px/18px Roboto, arial, helvetica, sans-serif;
+  font: 18px/17px Roboto, arial, helvetica, sans-serif;
   color: #fff;
   background: #0056EC;
-  padding: 22px 28px 22px 28px;
+  padding: 23px 28px 23px 28px;
   text-decoration: none;
   border-radius: 4px;
   transition: opacity .5s;
