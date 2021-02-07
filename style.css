@@ -100,8 +100,8 @@ body {
 .main__subtitle {
   width: 58%;
   margin-right: 93px;
-  margin-bottom: 2px;
-  padding: 0 283px 40px 0;
+  margin-bottom: 3px;
+  padding: 0 283px 43px 0;
   font: 22px/22px Roboto, arial, helvetica, sans-serif;
 }
 .main__title-text_highlight {
@@ -111,10 +111,10 @@ body {
   display: inline-block;
   margin-left: 4px;
   margin-right: 30px;
-  font: 18px/15px Roboto, arial, helvetica, sans-serif;
+  font: 18px/19px Roboto, arial, helvetica, sans-serif;
   color: #fff;
   background: #0056EC;
-  padding: 23px 28px 23px 28px;
+  padding: 18px 30px 17px 26px;
   text-decoration: none;
   border-radius: 4px;
   transition: opacity .5s;
