@@ -176,3 +176,11 @@ body {
     transition: opacity .5s;
   }
 }
+@media (max-width: 1024px) {
+  .header {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 0px;
+    margin-bottom: 0px;
+  }
+}
