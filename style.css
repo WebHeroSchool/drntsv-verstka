@@ -168,7 +168,7 @@ body {
   .main {
     padding: 100px 42% 141px 0;
     background: no-repeat url(img/mainimg.svg);
-    background-position: 88% 51%;
+    background-position: 86% 51%;
     background-size: 47%;
   }
   .main__title {
@@ -179,7 +179,7 @@ body {
     width: 61%;
     margin-right: 0px;
     margin-bottom: 1px;
-    padding: 21px 0px 43px 85px;
+    padding: 21px 1px 43px 83px;
     word-spacing: 1px;
     font: normal 18px/21px Roboto, arial, helvetica, sans-serif;
   }
