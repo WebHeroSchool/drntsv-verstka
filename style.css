@@ -184,6 +184,7 @@ body {
   .header {
    display: flex;
    justify-content: space-between;
+   margin-left: 49px;
    margin-right: 0px;
    margin-bottom: 0px;
  }
@@ -191,23 +192,23 @@ body {
    padding: 100px 42% 141px 0;
    background: no-repeat url(img/mainimg.svg);
    background-position: 88% 51%;
-   background-size: 47%;
+   background-size: 50%;
  }
  .main__title {
    margin: 0px 0px 18px 81px;
+   margin-left: 49px;
    font: normal 50px/66px pt_serifbold, arial, helvetica, sans-serif;
  }
  .main__subtitle {
    width: 61%;
-   margin-right: 0px;
    margin-bottom: 1px;
-   padding: 21px 0px 43px 85px;
+   padding: 21px 0px 43px 48px;
    word-spacing: 1px;
    font: normal 18px/21px Roboto, arial, helvetica, sans-serif;
  }
  .main__button {
    display: inline-block;
-   margin-left: 86px;
+   margin-left: 46px;
    font: normal 14px/5px Roboto, arial, helvetica, sans-serif;
    color: #fff;
    background: #0056EC;
