@@ -195,9 +195,6 @@ body {
   }
 }
 @media (max-width: 1098px) {
-  .body {
-    overflow-y: hidden;
-  }
   .wrapper {
     margin: 0px;
     width: 102%;
@@ -240,6 +237,9 @@ body {
  }
 }
 @media (max-width: 998px) {
+  .body {
+    overflow-y: hidden;
+  }
   .menu {
     display: none;
   }
