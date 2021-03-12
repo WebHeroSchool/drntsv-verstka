@@ -1,6 +1,5 @@
 body {
   margin: 0;
-  overflow: hidden;
 }
 #menu__toggle {
   opacity: 0;
@@ -196,6 +195,9 @@ body {
   }
 }
 @media (max-width: 1098px) {
+  .body {
+    overflow-y: hidden;
+  }
   .wrapper {
     margin: 0px;
     width: 102%;
