@@ -51,7 +51,6 @@ body {
 
 .logo {
   margin-left: 0;
-  padding: 25px 0 25px 0;
   position: relative;
   padding: 40px 10px;
   padding-left: 44px;
@@ -90,7 +89,7 @@ body {
 
 .menu__item {
   position: relative;
-  padding: 6px 0 0 0;
+  padding: 6px 0 0 3px;
   margin-right: 21px;
   margin-left: 0;
   padding-right: 3px;
