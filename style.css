@@ -371,7 +371,7 @@ body {
     text-decoration: none;
   }
 
-  .menu__item:after {
+  .menu__item::after {
     position: relative;
     display: inline-block;
     content: '';
