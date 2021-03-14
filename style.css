@@ -22,11 +22,13 @@ body {
 .title {
   font-family: Roboto;
 }
+
 .wrapper {
   margin: auto;
   width: 80%;
 }
-.logo, .menu {
+.logo,
+.menu {
   margin-left: 60px;
   display: inline-block;
 }
