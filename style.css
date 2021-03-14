@@ -60,11 +60,6 @@ body {
   margin-right: 0%;
 }
 
-.menu__item:last-child {
-  padding-right: 0;
-  margin-right: 0;
-}
-
 @keyframes flash {
   to {
     color: purple;
@@ -127,6 +122,11 @@ body {
 .menu__item:hover:after,
 .menu__item_active:after {
   opacity: 1;
+}
+
+.menu__item:last-child {
+  padding-right: 0;
+  margin-right: 0;
 }
 
 .main {
